@@ -1,0 +1,9 @@
+# credentials and private data, never commit
+.checkit.secrets.json
+*.secrets.json
+roster.json
+
+# python
+__pycache__/
+*.pyc
+.venv/

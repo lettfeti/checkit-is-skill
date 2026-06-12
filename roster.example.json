@@ -1,0 +1,8 @@
+{
+  "_comment": "Copy this to roster.json and fill in your own people. roster.json is git-ignored. This is a closed allow-list: the tool only creates or disables people listed here. The kennitolur below are fake but pass the checksum.",
+  "customers": [
+    { "name": "Jon Jonsson", "kennitala": "010100-2080", "email": "jon@example.com" },
+    { "name": "Gudrun Gudmundsdottir", "kennitala": "150393-2050", "email": "gudrun@example.com" },
+    { "name": "Ari Arason", "kennitala": "220588-2030" }
+  ]
+}
